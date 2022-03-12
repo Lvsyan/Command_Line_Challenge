@@ -1,3 +1,10 @@
+Explicación del ejercicio:
+
+- Hice el seguimiento que pedia el ejercicio para hacer cada comando en la terminal
+
+- En alguno se me complico porque no recordaba como hacerlo pero mire la documentación y al final si que salio bien
+
+
 ![Command Line Preview](https://raw.githubusercontent.com/breatheco-de/exercise-terminal-challenge/master/preview.png)
 Este command line challenge está diseñado para que te familiarices con la terminal. Este desafío recorre los comandos más usados y que cualquier desarrollador debe saber para tener éxito en la vida.
 
